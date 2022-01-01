@@ -364,6 +364,7 @@ FodyWeavers.xsd
 
 *.db
 
-*.idea
-
 appsettings.json
+
+mongo-volume/
+
